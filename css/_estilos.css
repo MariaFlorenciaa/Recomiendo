@@ -168,11 +168,12 @@ section#tarjeta {
    
 /*MIS RECETARIOS */    
 .recetario { 
-  margin-right: 30px; 
   display: flex;
   flex-direction: row;
   flex-wrap: wrap;
   justify-content: flex-start;
+  background-color: #f7ef81;
+  margin-right: 30px; 
 
   }
    
@@ -320,7 +321,7 @@ footer {
       justify-content: center;
     }
 
-  section#recetario div div {
+  .recetario {
       margin-bottom: 10px;}
       
   div#youtube {
