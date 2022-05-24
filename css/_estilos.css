@@ -166,15 +166,8 @@ section#tarjeta {
   margin: auto;}
 
    
-/*MIS RECETARIOS */  
-section#recetario { 
-  grid-area: recetario; 
-  margin-right: 10px; 
-  display: grid;
-  grid-template: 80%;
-  }
-   
-section#recetario div{ 
+/*MIS RECETARIOS */    
+section#recetas div{ 
   margin-right: 30px; 
   display: flex;
   flex-direction: row;
@@ -183,7 +176,7 @@ section#recetario div{
 
   }
    
-section#recetario div div {
+section#recetas div div {
   display:flex;
   flex-direction: column;
   justify-content: flex-start;
@@ -192,7 +185,7 @@ section#recetario div div {
   width: 250px;
   height: 560px;}
    
-section#recetario img {
+section#recetas img {
   width: 248px;
   height: 350px;}
    
@@ -420,7 +413,8 @@ section#recetas {
   "header header"
   "carouselExampleCaptions carouselExampleCaptions"
   "titulo1 titulo1"
-  "recetaIndex recetaIndex" "recetas aside" "recetario aside"
+  "recetaIndex recetaIndex" 
+  "recetas aside" 
   "youtube youtube"
   "titulo titulo"
   "tarjeta tarjeta"
