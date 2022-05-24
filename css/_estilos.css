@@ -167,7 +167,7 @@ section#tarjeta {
 
    
 /*MIS RECETARIOS */    
-section#recetas div{ 
+.recetario { 
   margin-right: 30px; 
   display: flex;
   flex-direction: row;
@@ -176,7 +176,7 @@ section#recetas div{
 
   }
    
-section#recetas div div {
+.recetario div div {
   display:flex;
   flex-direction: column;
   justify-content: flex-start;
@@ -185,7 +185,7 @@ section#recetas div div {
   width: 250px;
   height: 560px;}
    
-section#recetas img {
+.recetario img {
   width: 248px;
   height: 350px;}
    
@@ -384,7 +384,7 @@ footer {
   height: 400px;}
 
 
-section#recetario div div {
+.recetario div div {
   margin-bottom: 10px;}
 
 div#youtube {
