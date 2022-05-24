@@ -48,14 +48,9 @@ div#carouselExampleCaptions
   margin-right: 15px;
   margin-bottom: 20px;}
 
-/*CONTACTO*/
-section#contacto{
-  grid-area: contacto; 
-  margin-right: 10px; 
-  display: grid;
- } 
 
-/*RECETAS*/
+
+/*RECETAS Y CONTACTO*/
 section#recetas{
   grid-area: recetas; 
   margin-right: 10px; 
@@ -304,7 +299,6 @@ footer {
   "recetaIndex"
   "recetas"
   "recetario"
-  "Conctacto"
   "aside"
   "youtube"
   "titulo"
@@ -372,7 +366,6 @@ footer {
   "recetaIndex"
   "recetas"
   "recetario"
-  "Conctacto"
   "aside"
   "youtube"
   "titulo"
@@ -415,12 +408,7 @@ section#recetas {
     justify-content: flex-start;
     }
   
-    section#contacto {
-      display: flex;
-      flex-direction: column;
-      flex-wrap: wrap;
-      justify-content: flex-start;
-      }}
+  }
 
 
 /*DESKTOP*/
