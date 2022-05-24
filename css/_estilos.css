@@ -172,7 +172,6 @@ section#tarjeta {
   flex-direction: row;
   flex-wrap: wrap;
   justify-content: flex-start;
-  background-color: #f7ef81; 
 
   }
    
@@ -321,7 +320,7 @@ footer {
       justify-content: center;
     }
 
-  .recetario {
+  .recetario1 {
       margin-bottom: 10px;}
       
   div#youtube {
@@ -385,7 +384,7 @@ footer {
   height: 400px;}
 
 
-.recetario div div {
+.recetario1 {
   margin-bottom: 10px;}
 
 div#youtube {
