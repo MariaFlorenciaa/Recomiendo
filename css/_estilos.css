@@ -166,8 +166,17 @@ section#tarjeta {
   margin: auto;}
 
    
-/*MIS RECETARIOS */      
-.recetario {
+/*MIS RECETARIOS */    
+.recetario { 
+  margin-right: 30px; 
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: flex-start;
+
+  }
+   
+.recetario1{
   display:flex;
   flex-direction: column;
   justify-content: flex-start;
