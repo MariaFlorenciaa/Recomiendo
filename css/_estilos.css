@@ -413,7 +413,14 @@ section#recetas {
     flex-direction: column;
     flex-wrap: wrap;
     justify-content: flex-start;
-    }}
+    }
+  
+    section#contacto {
+      display: flex;
+      flex-direction: column;
+      flex-wrap: wrap;
+      justify-content: flex-start;
+      }}
 
 
 /*DESKTOP*/
