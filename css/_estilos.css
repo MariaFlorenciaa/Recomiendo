@@ -47,7 +47,13 @@ div#carouselExampleCaptions
   float: left;
   margin-right: 15px;
   margin-bottom: 20px;}
- 
+
+/*CONTACTO*/
+section#contacto{
+  grid-area: contacto; 
+  margin-right: 10px; 
+  display: grid;
+  grid-template: 80%;} 
 
 /*RECETAS*/
 section#recetas{
@@ -418,7 +424,9 @@ section#recetas {
   "carouselExampleCaptions carouselExampleCaptions"
   "titulo1 titulo1"
   "recetaIndex recetaIndex"
-  "recetario aside" "recetas aside"
+  "recetario aside"
+  "contacto aside"
+  "recetas aside"
   "youtube youtube"
   "titulo titulo"
   "tarjeta tarjeta"
