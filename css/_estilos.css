@@ -53,7 +53,7 @@ section#contacto{
   grid-area: contacto; 
   margin-right: 10px; 
   display: grid;
-  grid-template: 80%;} 
+ } 
 
 /*RECETAS*/
 section#recetas{
@@ -304,6 +304,7 @@ footer {
   "recetaIndex"
   "recetas"
   "recetario"
+  "Conctacto"
   "aside"
   "youtube"
   "titulo"
@@ -371,6 +372,7 @@ footer {
   "recetaIndex"
   "recetas"
   "recetario"
+  "Conctacto"
   "aside"
   "youtube"
   "titulo"
