@@ -169,7 +169,7 @@ section#tarjeta {
 /*MIS RECETARIOS */      
 .recetario {
   display:flex;
-  flex-direction: column;
+  flex-direction: row;
   justify-content: flex-start;
   align-items: center;
   border: 1px solid #000000 ;
