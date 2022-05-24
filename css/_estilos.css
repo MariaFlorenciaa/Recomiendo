@@ -173,7 +173,7 @@ section#recetario {
   grid-template: 80%;
   }
    
-section#recetas div{ 
+section#recetario div{ 
   margin-right: 30px; 
   display: flex;
   flex-direction: row;
@@ -182,7 +182,7 @@ section#recetas div{
 
   }
    
-section#recetas div div {
+section#recetario div div {
   display:flex;
   flex-direction: column;
   justify-content: flex-start;
