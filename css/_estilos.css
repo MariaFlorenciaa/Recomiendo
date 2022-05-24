@@ -415,12 +415,10 @@ section#recetas {
   display: grid;
   grid-template-areas:
   "header header"
-  "recetas aside"
   "carouselExampleCaptions carouselExampleCaptions"
   "titulo1 titulo1"
   "recetaIndex recetaIndex"
-  "recetario aside"
-  "recetas aside"
+  "recetario aside" "recetas aside"
   "youtube youtube"
   "titulo titulo"
   "tarjeta tarjeta"
