@@ -176,6 +176,7 @@ section#recetario div{
   flex-direction: row;
   flex-wrap: wrap;
   justify-content: flex-start;
+  background-color: #f7ef81;
   }
    
 section#recetario div div {
@@ -345,9 +346,9 @@ footer {
     margin-right: 0;}
        
   .parrafo{
-      display: flex;
+    display: flex;
     flex-direction: column;
-  justify-content: flex-start;}  }
+    justify-content: flex-start;}  }
 
 
 /*TABLET*/
