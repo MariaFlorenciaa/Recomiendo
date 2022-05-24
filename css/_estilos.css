@@ -52,7 +52,9 @@ div#carouselExampleCaptions
 /*RECETAS*/
 section#recetas{
   grid-area: recetas; 
-  } 
+  margin-right: 10px; 
+  display: grid;
+  grid-template: 80%;} 
 
 .parrafo{
   font-family: lato;
