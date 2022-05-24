@@ -167,11 +167,10 @@ section#tarjeta {
    
 /*MIS RECETARIOS */  
 section#recetario { 
-  grid-area: recetario;  display: flex; 
-  flex-direction: row; 
-  flex-wrap: wrap;
-  justify-content: space-between;
-  align-items: center;
+  grid-area: recetario; 
+  margin-right: 10px; 
+  display: grid;
+  grid-template: 80%;
   }
    
 section#recetario div{ 
